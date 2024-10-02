@@ -1,0 +1,40 @@
+{
+  "short_name": "Vaishu's APP",
+  "name": "Vaishu's APP",
+  "icons": [
+    {
+      "src": "https://img.freepik.com/free-vector/bird-colorful-logo-gradient-vector_343694-1365.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1721433600&semt=sph",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ],
+  "id": "/?source=pwa",
+  "start_url": "/?source=pwa",
+  "background_color": "#3367D6",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#3367D6",
+  "shortcuts": [
+    {
+      "name": "How are you ? dear ?",
+      "short_name": "Today",
+      "description": "Coding ninjas problem solve",
+      "url": "/today?source=pwa",
+      "icons": [
+        {
+          "src": "https://img.freepik.com/free-vector/bird-colorful-logo-gradient-vector_343694-1365.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1721433600&semt=sph",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ],
+  "description": "Vaishu's Manifest",
+  "screenshots": [
+    {
+      "src": "https://img.freepik.com/free-vector/bird-colorful-logo-gradient-vector_343694-1365.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1721433600&semt=sph",
+      "type": "image/png",
+      "sizes": "540x720",
+      "form_factor": "narrow"
+    }
+  ]
+}
